@@ -1,4 +1,4 @@
-# Andrei face legea in Python pe Unikraft
+# Andrei face legea
 
 # Python3 Hello on Unikraft
 
